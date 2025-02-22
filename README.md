@@ -1,5 +1,9 @@
 🏆 Game Day Analytics Competition 2025 – #1 Overall Winning Portfolio
 
+CREDIT: Jack Doughty, Nicolaus Bayard, Prachi Aswani, Tobias Lux
+
+CONTACT: jackdoughty63@gmail.com
+
 This repository contains our #1 Overall Winning Project from the Game Day Data Analytics Competition hosted by the David Eccles School of Business, University of Utah. Competing against 35 teams, we secured the top spot by analyzing X (Twitter) data to understand consumer engagement, sentiment around Super Bowl 59 advertisements, and the impact of sentiment on stock market performance in the week following the Super Bowl. Our analysis explored how public perception of brands and celebrities correlated with changes in stock prices, providing insights into the financial effects of Super Bowl ad reception.
 
 📂 Repository Structure
@@ -30,10 +34,6 @@ We analyzed how brands’ Super Bowl ad performance correlated with their stock 
 🏅 Competition & Recognition
 	•	🥇 1st Place – Overall Best Team out of 35 teams.
 	•	Hosted by the David Eccles School of Business, University of Utah.
-	•	Team Members:
-	•	Nicolaus Bayard
-	•	Prachi Aswani
-	•	Tobias Lux
 
 🚀 How to Use This Repository
 	1.	Explore the DATA folder for datasets.
