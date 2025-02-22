@@ -7,6 +7,7 @@ CONTACT: jackdoughty63@gmail.com
 This repository contains our **#1 Overall Winning Project** from the **Game Day Data Analytics Competition** hosted by the David Eccles School of Business, University of Utah. Competing against 35 teams, we secured the top spot by analyzing X (Twitter) data to understand consumer engagement, sentiment around Super Bowl 59 advertisements, and the impact of sentiment on stock market performance in the week following the Super Bowl. Our analysis explored how public perception of brands and celebrities correlated with changes in stock prices, providing insights into the financial effects of Super Bowl ad reception.
 
 📂 Repository Structure
+
 	•	📁 DATA/ → Contains all datasets used in our analysis.
 	•	Stock Market Analysis - Sheet1.csv → Stock performance of brands one week after the Super Bowl, measured as the change from the Friday before to the Friday after the game.
 	•	📜 data_analysis_GDAC.ipynb → Data cleaning & initial exploratory analysis.
@@ -21,6 +22,7 @@ This repository contains our **#1 Overall Winning Project** from the **Game Day 
 
 We examined engagement metrics (likes, retweets, replies, quotes, bookmarks) to measure ad impact.
 Using VADER (NLTK), we conducted sentiment analysis on tweets to evaluate brand perception by:
+
 	•	Brands 🏢
 	•	Celebrities 🎭
 	•	Geographic regions (state-level sentiment) 🌍
@@ -28,14 +30,17 @@ Using VADER (NLTK), we conducted sentiment analysis on tweets to evaluate brand 
 2️⃣ Stock Market Correlation
 
 We analyzed how brands’ Super Bowl ad performance correlated with their stock performance.
+
 	•	Stock changes were measured from the Friday before the Super Bowl to the Friday after (1-week window).
 	•	Findings revealed key relationships between ad sentiment and stock movements.
 
 🏅 Competition & Recognition
+
 	•	🥇 1st Place – Overall Best Team out of 35 teams.
 	•	Hosted by the David Eccles School of Business, University of Utah.
 
 🚀 How to Use This Repository
+
 	1.	Explore the DATA folder for datasets.
 	2.	Run data_analysis_GDAC.ipynb for data cleaning & initial insights.
 	3.	Run GAME_DAY_ANALYTICS_2025.ipynb for final visualizations, sentiment analysis, and stock correlations.
