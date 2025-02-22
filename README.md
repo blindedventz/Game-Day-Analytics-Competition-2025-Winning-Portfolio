@@ -1,6 +1,6 @@
 🏆 Game Day Analytics Competition 2025 – #1 Overall Winning Portfolio
 
-This repository contains our #1 Overall Winning Project from the Game Day Data Analytics Competition hosted by the David Eccles School of Business, University of Utah. Competing against 35 teams, we secured the top spot by analyzing X (Twitter) data to understand consumer engagement and sentiment around Super Bowl 59 advertisements.
+This repository contains our **#1 Overall Winning Project** from the **Game Day Data Analytics Competition** hosted by the David Eccles School of Business, University of Utah. Competing against 35 teams, we secured the top spot by analyzing X (Twitter) data to understand consumer engagement, sentiment around **Super Bowl 59** advertisements, and effect on Stock Market evaluation following the Super Bowl.
 
 📂 Repository Structure
 	•	📁 DATA/ → Contains all datasets used in our analysis.
